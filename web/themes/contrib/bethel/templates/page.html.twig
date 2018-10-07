@@ -54,7 +54,8 @@
 {% set container = theme.settings.fluid_container ? 'container-fluid' : 'container' %}
       <div class="top-bar">
       {{ page.topbar }}
-      </div>{# Navbar #}
+      </div>
+      {# Navbar #}
 {% if page.navigation or page.navigation_collapsible %}
   {% block navbar %}
     {%
