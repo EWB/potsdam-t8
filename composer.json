@@ -19,12 +19,12 @@
         "composer/installers": "^1.2",
         "cweagans/composer-patches": "^1.6.5",
         "drupal-composer/drupal-scaffold": "^2.5",
-        "drupal/asset_injector": "^2.2",
+        "drupal/asset_injector": "^2.4",
         "drupal/block_class": "^1.0",
-        "drupal/bootstrap": "^3.13",
+        "drupal/bootstrap": "^3.16",
         "drupal/bootstrap_barrio": "^4.17",
         "drupal/console": "^1.0.2",
-        "drupal/core": "^8.6.0",
+        "drupal/core": "^8.6.4",
         "drupal/field_group": "^3.0",
         "drupal/link_attributes": "^1.5",
         "drupal/views_bootstrap": "^3.1",
@@ -34,7 +34,7 @@
         "webmozart/path-util": "^2.3"
     },
     "require-dev": {
-        "webflo/drupal-core-require-dev": "^8.6.0"
+        "webflo/drupal-core-require-dev": "^8.6.4"
     },
     "conflict": {
         "drupal/drupal": "*"
