@@ -24,7 +24,7 @@
         "drupal/bootstrap": "^3.16",
         "drupal/bootstrap_barrio": "^4.17",
         "drupal/console": "^1.0.2",
-        "drupal/core": "^8.6.4",
+        "drupal/core": "^8.6.7",
         "drupal/field_group": "^3.0",
         "drupal/link_attributes": "^1.5",
         "drupal/views_bootstrap": "^3.1",
@@ -35,7 +35,7 @@
         "webmozart/path-util": "^2.3"
     },
     "require-dev": {
-        "webflo/drupal-core-require-dev": "^8.6.4"
+        "webflo/drupal-core-require-dev": "^8.6.7"
     },
     "conflict": {
         "drupal/drupal": "*"
